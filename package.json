@@ -1,0 +1,9 @@
+{
+  "name": "pixel-weather",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pixelated weather app with today plus a 5-day forecast and animated sun, rain, fog, and wind.",
+  "scripts": {
+    "start": "npx --yes serve -l 5173 ."
+  }
+}
